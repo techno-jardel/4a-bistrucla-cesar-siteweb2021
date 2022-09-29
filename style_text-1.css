@@ -1,0 +1,121 @@
+html, body {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+h1 {
+  font-family: verdana, sans-serif;
+  font-size: 200%;
+  color: black;
+  background-color: transparent;
+  text-align: left;
+}
+
+h2 {
+  font-family: verdana, sans-serif;
+  font-size: 150%;
+  color: black;
+  background-color: transparent;
+  text-align: left;
+}
+
+h3 {
+  font-family: verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  background-color: transparent;
+  text-align: left;
+}
+
+p {
+  font-size: medium;
+  color: black;
+  background-color: transparent;
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+a:link {
+  font-family: "Berlin Sans FB";
+  font-size: large;
+  color: black;
+  background-color: transparent;
+}
+
+a:visited {
+  font-family: verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-family: verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active, a:focus {
+  font-family: verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.p {
+  font-family: "Arial", "Helvetica", "sans-serif";
+}
+
+
+li {
+  font-family: verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  background-color: transparent;
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
